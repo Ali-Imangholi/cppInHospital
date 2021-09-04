@@ -1,12 +1,16 @@
 Hi ✋
 
-this programme simulate clearance of patients in a hospital.
-if you want run this programm, you must edit variables below:
+This programme simulate clearance of patients in a hospital.
+If you want run this programm, you must edit variables below:
 
 maxDaysForIcuAndHOSPITAL_WARD_BEDS = 6 // max days that take for any patients in ICU or HOSPITAL_WARD
+
 NUMBER_OF_HOSPITAL_WARD_BEDS = 7;
+
 NUMBER_OF_ICU_BEDS = 10;
+
 NUMBER_SURGERY = 2;
+
 NUMBER_OF_DAYS = 10; // you must edit this vars for number of deays you want simulate hospital process
 
 the output is text file ( OUT.txt ) that show the process.

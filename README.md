@@ -14,7 +14,7 @@ NUMBER_SURGERY = 2;
 NUMBER_OF_DAYS = 10; // you must edit this vars for number of deays you want simulate hospital process
 
 the output is text file ( OUT.txt ) that show the process.
-from this resault you can make decision on add more beds to ICU or HOSPITAL_WARD ???
+from this resault you can make decision on add more beds to ICU or HOSPITAL_WARD ?
 
 notice:
 this programme make random days for new patients in ICU and HOSPITAL_WARD, this random number is between 1 and maxDaysForIcuAndHOSPITAL_WARD_BEDS.

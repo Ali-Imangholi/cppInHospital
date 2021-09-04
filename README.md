@@ -20,5 +20,5 @@ notice:
 this programme make random days for new patients in ICU and HOSPITAL_WARD, this random number is between 1 and maxDaysForIcuAndHOSPITAL_WARD_BEDS.
 
 the process that consider for this programme is a new patient first reception in ICU for random days between 1 and maxDaysForIcuAndHOSPITAL_WARD_BEDS
-after that goes to surgery room and after goes to hospital_ward and reception in it for random days between 1 and maxDaysForIcuAndHOSPITAL_WARD_BEDS
+after that goes to surgery room and after goes to HOSPITAL_WARD and reception in it for random days between 1 and maxDaysForIcuAndHOSPITAL_WARD_BEDS
 at the end he/she can go home😊.
